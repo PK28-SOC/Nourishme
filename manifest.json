@@ -1,0 +1,16 @@
+{
+  "name": "NourishMe",
+  "short_name": "NourishMe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080f08",
+  "theme_color": "#080f08",
+  "description": "Personal calorie & weight loss tracker",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/identicon/svg?seed=nourishme",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
